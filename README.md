@@ -1,10 +1,10 @@
 # phishing-detection
 
 ## To-do
-Figma design
-UI
-ML model
-Deploy
+- Figma design
+- UI
+- Machine Learning model
+- Deploy
 
 ## Completed
-Figma design - draft 1
+- Figma design - draft 1
